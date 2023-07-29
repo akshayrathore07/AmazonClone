@@ -3,8 +3,10 @@
 This is a clone website (using html & css)
 
 #ScreenShot
+![Screenshot (1)](https://github.com/akshayrathore07/AmazonClone/assets/110248720/8ed76784-eec6-498e-b7c1-93ad7949624f)
 
-![Screenshot (1)](https://github.com/akshayrathore07/AmazonClone/assets/110248720/4369ffff-2cfc-40ea-829b-6ec6d783aa64)
+
+![Screenshot (2)](https://github.com/akshayrathore07/AmazonClone/assets/110248720/628ee78c-2363-4229-9341-f0cbbaeb07a8)
 
 
-![Screenshot (2)](https://github.com/akshayrathore07/AmazonClone/assets/110248720/c9337fd7-ad83-4d80-b42c-ea7b4f50f83e)
+![Screenshot (3)](https://github.com/akshayrathore07/AmazonClone/assets/110248720/cb932da2-dbbc-4000-b8a9-c6497d66b9d1)
